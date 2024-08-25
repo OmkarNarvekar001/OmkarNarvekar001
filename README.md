@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate "Part time" developer with a stro
 
 ## 🚀 About Me
 
-- 💼 I’m currently working as a Consultant at a Big4 firm, with 1 year of experience.
-- 🌱 I’m currently learning about:  
+ 💼 I’m currently working as a Consultant at a Big4 firm, with 1 year of experience.
+ 🌱 I’m currently learning about:  
 &nbsp;&nbsp;&nbsp;&nbsp;- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
  for CI/CD, pipeline automation, and its integration with a variety of tools.  
 &nbsp;&nbsp;&nbsp;&nbsp;- ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm a passionate "Part time" developer with a stro
 &nbsp;&nbsp;&nbsp;&nbsp;- ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-2A2F4F?style=flat&logo=oauth&logoColor=white) and ![SAML Authentication](https://img.shields.io/badge/SAML-0072C6?style=flat&logo=security&logoColor=white). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_and_Algorithms-004B87?style=flat&logo=java&logoColor=white).
 
-- 💡 I have a strong interest in Identity and Access Management (IAM), Identity Governance and Administration (IGA), Saviynt, Java, and Web Development.
-- 💬 Ask me about Java, SQL, or anything tech-related.
-- ⚽ Outside of work, I enjoy football, cricket, and e-sports.
-- 📫 How to reach me: [onarvekar01@gmail.com](mailto:onarvekar01@gmail.com).
+ 💡 I have a strong interest in Identity and Access Management (IAM), Identity Governance and Administration (IGA), Saviynt, Java, and Web Development.
+ 💬 Ask me about Java, SQL, or anything tech-related.
+ ⚽ Outside of work, I enjoy football, cricket, and e-sports.
+ 📫 How to reach me: [onarvekar01@gmail.com](mailto:onarvekar01@gmail.com).
 
 ## ⚙️ Technologies & Tools
 
