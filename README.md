@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate "Part time" developer with a stro
 
 ## 🚀 About Me
 
- 💼 I’m currently working as a Consultant at a Big4 firm, with 1 year of experience.
+ 💼 I’m currently working as a Consultant at a Big4 firm, with 1 year of experience.<br>
  🌱 I’m currently learning about:  
 &nbsp;&nbsp;&nbsp;&nbsp;- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
  for CI/CD, pipeline automation, and its integration with a variety of tools.  
