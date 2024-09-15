@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate "Part time" developer with a strong focus on Java and backend technologies. Here, you'll find a collection of my projects, contributions, and the tools I love to work with.
 
-![Profile Views](https://komarev.com/ghpvc/?username=OmkarNarvekar001&color=brightgreen)
 
 ## 🚀 About Me
 
